@@ -1,1 +1,1 @@
-<p align = "center">## Welcome to GitHub Pages</p>
+<h1 align = "center"> Welcome to GitHub Pages</h1>
