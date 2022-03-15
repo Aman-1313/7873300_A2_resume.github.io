@@ -32,6 +32,13 @@ Relevant Coursework: Computational Theory, Operating Systems, Compilers, Intelli
 - Obtained lisence to operate a forklift 
 - Worked along a large team to keep track of the stock 
 - Gathered delivery orders for customers
+
+<b>HOTEL RECEPTIONIST   
+  RED PALACE</b>, Chandigarh, India    
+  
+- Tracked customer transactions 
+- Organized data entries in excel spreadsheets
+- Customized company memos and emails 
   
 
 ####  PROJECTS
