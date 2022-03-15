@@ -12,8 +12,6 @@ Relevant Coursework: Computational Theory, Operating Systems, Compilers, Intelli
 
 ---
 
-<div align = "center">
-
 | Programming Languages        | Tools and Technology           | Frameworks and libraries  |
 | :-------------: |:-------------:| :-----:|
 | Java     | Git | Plotly |
@@ -23,5 +21,3 @@ Relevant Coursework: Computational Theory, Operating Systems, Compilers, Intelli
 | Dart |    Excel   |    Bootstrap |
 | SQL | Firebase      |   Django  |
 | R | Google Flutter      |  Angular   |
-
-</div>
