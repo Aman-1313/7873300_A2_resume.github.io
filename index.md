@@ -1,1 +1,1 @@
-## Welcome to GitHub Pages
+<p align = "center">## Welcome to GitHub Pages</p>
