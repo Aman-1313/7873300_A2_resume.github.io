@@ -52,3 +52,8 @@ Final Project(Crypto Data), <https://github.com/Aman-1313/cryptoData.git>
 - Designed Android and IOS application  
 - Integrated API from an online source   
 - Delivered highly accurate Crypto-Currencies price updates 
+
+####  INTERESTS
+
+---
+Reading, Soccer, Athletics, Politics 
