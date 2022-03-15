@@ -1,18 +1,18 @@
 <h1 align = "center">AMAN P SINGH </h1>
 <p align = "center"> 123 Bison drive, Winnipeg, MB R3T 4Z7, Tel. (431) 255-1313<br> Email: singhap2@myumanitoba.ca</p>
 
-#### <center> EDUCATION </center>
+#### <p align = "center"> EDUCATION </p>
 
 ---
 <b>Bachelor of Science, Computer Science</b>  
 University of Manitoba   
 Relevant Coursework: Computational Theory, Operating Systems, Compilers, Intelligent Machines: Perception, Learning, and Uncertainty, Database Management, and Computer Networks.
 
-#### <center> TECHNICAL SKILLS</center>
+#### <p align = "center"> TECHNICAL SKILLS</p>
 
 ---
 
-<p align = "center">
+<div align = "center">
 
 | Programming Languages        | Tools and Technology           | Frameworks and libraries  |
 | :-------------: |:-------------:| :-----:|
@@ -20,7 +20,8 @@ Relevant Coursework: Computational Theory, Operating Systems, Compilers, Intelli
 | C#      | MySQL      |   Tidyverse |
 | Javascript | Android Studio      |    Matplotlib |
 | Python | R Studio      |    SciKit-Learn |
-| Dart |    Excel   |    bootstrap |
-| SQL | Firebase      |     |
-| R | Google Flutter      |    $1 |
-</p>
+| Dart |    Excel   |    Bootstrap |
+| SQL | Firebase      |   Django  |
+| R | Google Flutter      |  Angular   |
+
+</div>
