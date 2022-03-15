@@ -30,13 +30,13 @@ Relevant Coursework: Computational Theory, Operating Systems, Compilers, Intelli
 UNIVERSITY OF MANITOBA, DATA SCIENCE COURSE</b>  
 Final project(Cause of Deforestation), https://github.com/Aman-1313/Deforestation-Project.git
 
--Structured and formatted Big-Data into usable databases   
--Used R and Python libraries to perform visualizations  
--Used statistical models like Linear Regression, Random-Forests and Nearest Neighbors 
+- Structured and formatted Big-Data into usable databases   
+- Used R and Python libraries to perform visualizations  
+- Used statistical models like Linear Regression, Random-Forests and Nearest Neighbors 
 
 <b>CRYPTO PRICE CHECKER<b>  
 Final Project(Crypto Data), https://github.com/Aman-1313/cryptoData.git   
 
--Designed Android and IOS application  
--Integrated API from an online source   
--Delivered highly accurate Crypto-Currencies price updates 
+- Designed Android and IOS application  
+- Integrated API from an online source   
+- Delivered highly accurate Crypto-Currencies price updates 
