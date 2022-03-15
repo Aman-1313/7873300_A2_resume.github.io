@@ -35,7 +35,7 @@ Final project(Cause of Deforestation), https://github.com/Aman-1313/Deforestatio
 - Used statistical models like Linear Regression, Random-Forests and Nearest Neighbors 
 
 <b>CRYPTO PRICE CHECKER</b>  
-Final Project(Crypto Data), https://github.com/Aman-1313/cryptoData.git   
+Final Project(Crypto Data), <a>https://github.com/Aman-1313/cryptoData.git</a>   
 
 - Designed Android and IOS application  
 - Integrated API from an online source   
