@@ -26,6 +26,18 @@ Relevant Coursework: Computational Theory, Operating Systems, Compilers, Intelli
 
 ---
 
+<b>FREIGHT TEAM LEAD   
+  HOME DEPOT</b>, Winnipeg, Canada    
+  
+- Obtained lisence to operate a forklift 
+- Worked along a large team to keep track of the stock 
+- Gathered delivery orders for customers
+  
+
+####  PROJECTS
+
+---
+
 <b>DEFORESTATION PROJECT  
 UNIVERSITY OF MANITOBA, DATA SCIENCE COURSE</b>  
 Final project(Cause of Deforestation), <https://github.com/Aman-1313/Deforestation-Project.git>
