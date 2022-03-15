@@ -21,3 +21,21 @@ Relevant Coursework: Computational Theory, Operating Systems, Compilers, Intelli
 | Dart |    Excel   |    Bootstrap |
 | SQL | Firebase      |   Django  |
 | R | Google Flutter      |  Angular   |
+
+####  EXPERIENCE
+
+---
+
+<b>DEFORESTATION PROJECT  
+UNIVERSITY OF MANITOBA, DATA SCIENCE COURSE</b>  
+Final project(Cause of Deforestation), https://github.com/Aman-1313/Deforestation-Project.git
+
+-Structured and formatted Big-Data into usable databases   
+-Used R and Python libraries to perform visualizations  
+-Used statistical models like Linear Regression, Random-Forests and Nearest Neighbors 
+
+APPLICATION PROGRAMMING INTERFACE
+Final Project(Crypto Data), https://github.com/Aman-1313/cryptoData.git 
+Designed Android and IOS application
+Integrated API from an online source
+Delivered highly accurate Crypto-Currencies price updates 
