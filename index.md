@@ -28,7 +28,7 @@ Relevant Coursework: Computational Theory, Operating Systems, Compilers, Intelli
 
 <b>DEFORESTATION PROJECT  
 UNIVERSITY OF MANITOBA, DATA SCIENCE COURSE</b>  
-Final project(Cause of Deforestation), https://github.com/Aman-1313/Deforestation-Project.git
+Final project(Cause of Deforestation), <a>https://github.com/Aman-1313/Deforestation-Project.git</a>
 
 - Structured and formatted Big-Data into usable databases   
 - Used R and Python libraries to perform visualizations  
