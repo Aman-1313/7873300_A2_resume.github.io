@@ -1,6 +1,5 @@
 ---
 title: MY RESUME
-author: AMAN P Singh
 ---
 <h1 align = "center">AMAN P SINGH </h1>
 <p align = "center"> 123 Bison drive, Winnipeg, MB R3T 4Z7, Tel. (431) 255-1313<br> Email: singhap2@myumanitoba.ca</p>
