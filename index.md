@@ -30,7 +30,7 @@ Relevant Coursework: Computational Theory, Operating Systems, Compilers, Intelli
   HOME DEPOT</b>, Winnipeg, Canada    
   
 - Obtained lisence to operate a forklift 
-- Worked along a large team to keep track of the stock 
+- Worked along a large team to keep track of the sales
 - Gathered delivery orders for customers
 
 <b>HOTEL RECEPTIONIST   
