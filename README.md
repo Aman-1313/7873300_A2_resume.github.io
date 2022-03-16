@@ -1,21 +1,28 @@
-### AUDIENCE ANALYSIS  
-Audience: CS Student  
-Venue: README in GitHub Pages  
-Purpose: Explain how to host a resume on GitHub Pages  
-Additional purpose: Introduce and demonstrate the principles of Andrew Etter's book Modern Technical Writing  
-Desired Reaction:  
-Vocabulary:  
-Tone:   
-
-## HOST A RESUME ONLINE. 
-### Purpose: 
+# HOST A RESUME ONLINE. 
+## Purpose: 
 The following instructions aim to provide simple yet practicle steps to host and format a resume online.
 
 ## Getting Started
 
 ### Prerequisites
-- A markdown editor
-- A markdown formatted resume
+- A Markdown formatted Resume
 - A Github account
-- 
+
+## Instructions
+
+
+## More Resources
+https://www.markdownguide.org/getting-started   
+https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS  
+https://docs.github.com/en/pages  
+https://jekyllrb.com/docs/  
+
+## Authors and Acknowledgements
+Johnson Makumator-Jones, Hong Gao, Adam Kroeker, Cain Stoeke
+
+## FAQs
+1. Why is Markdown better than a word processor?
+- abc
+2. Why is my resume not showing up?
+- abc
 
