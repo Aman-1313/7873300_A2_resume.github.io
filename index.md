@@ -3,6 +3,8 @@
 123 Bison drive, Winnipeg, MB R3T 4Z7, Tel. (431) 255-1313   
 Email: singhap2@myumanitoba.ca</p>
 
+---
+
 ####  EDUCATION 
 
 ---
