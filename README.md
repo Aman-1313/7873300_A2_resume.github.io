@@ -1,16 +1,13 @@
-# HOST A RESUME ONLINE. 
-## Purpose: 
-Host a portfoilio or a resume online using static site generator and a distributed version control. The following instructions aim to provide simple yet practical steps to host and format a resume online.
+# HOST A RESUME ONLINE  
+## Purpose 
+Host a portfoilio or a resume online using lightweight markup language, static site generator and a distributed version control. The following instructions aim to provide simple yet practical steps to host and format a resume online.
 
-## Getting Started
-
-### Prerequisites
+## Prerequisites
 - A Markdown formatted Resume
 - A Github account
 
 ## Instructions
-### Key Principles:
-Inspired by  _Andrew Etter’s_ *Modern Technical Writing*, here are some _Key Principles_ for hosting a great static website or a _Resume_:
+Inspired by  _Andrew Etter’s_ Modern Technical Writing, here are some key principles and relative practical steps for hosting a great static website or a resume:
 #### 1. Use a lightweight markup language: 
 - Traditional languages used to write a website content like XML and HTML can be very time consuming and difficult to learn because of their specialized tags and sytax.
 -  A lightweight markup language like **Markdown** provide a human readable syntax and is easily converted into HTML, which makes it easier for technical writers to contribute content to an online website.
@@ -37,19 +34,21 @@ Markdown code
 <https://github.com/Aman-1313/Aman-1313.github.io/>
 ```
 Both of the code-blocks above provide the exact same result but Markdown is clearly more *Readable* and *Efficient* compared to HTML. This difference becomes even more evident when working on large projects.
-# to do 2 & 3
+
+>**Related Steps:**
+- Choose a lightweight markup language. For this assignment we will use a _Markdown_ format to write our resume.
+- Choose a Markdown editor of your choice, some example include [StackEdit](https://stackedit.io), [Atom](https://atom.io), [Dillinger](https://dillinger.io).
+- Write your resume using the chosen Markdown editor.
+- Save your file with a .md extension. 
+
 #### 2. Format a document with a static site generator:
 - Static sites are a fast, simple, and secure source of creating technical documention. 
-- Using Lightweight Markup *Content* and a *Theme*(HTML, CSS) __static site generators__ can help add complex functionalities to our documentation website. 
+- Using Lightweight Markup *Content* and a *Theme*(HTML, CSS) __static site generators__ can help add complex functionalities to our documentation website.
+
 #### 3. Host documents on a Distributed Version Control System:
 -  Distributed Version Control Systems can be used to host static websites.
 
-### Practical Steps:
-Now that we have talked about key principles of hosting a static website, it is time to learn the practical steps to host an online Resume.
-These steps include:
-- 
-
-### More Resources
+## More Resources
 https://www.markdownguide.org/getting-started   
 https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS  
 https://docs.github.com/en/pages  
