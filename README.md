@@ -36,18 +36,40 @@ Markdown code
 Both of the code-blocks above provide the exact same result but Markdown is clearly more *Readable* and *Efficient* compared to HTML. This difference becomes even more evident when working on large projects.
 
 >**Related Steps:**
-- Choose a lightweight markup language. For this assignment we will use a _Markdown_ format to write our resume.
+- Choose a lightweight markup language. In this example we will use a _Markdown_ format to write our resume.
 - Choose a Markdown editor of your choice, some example include [StackEdit](https://stackedit.io), [Atom](https://atom.io), [Dillinger](https://dillinger.io).
 - Write your resume using the chosen Markdown editor.
-- Save your file with a .md extension. 
+- Save your file named as index.md. 
 
 #### 2. Format a document with a static site generator:
 - Static sites are a fast, simple, and secure source of creating technical documention. 
 - Using Lightweight Markup *Content* and a *Theme*(HTML, CSS) __static site generators__ can help add complex functionalities to our documentation website.
+>**Related Steps:**
+- Choose a static site generator of your choice. In this example we will use "Jekyll".
+- Create a file named \_config.yml.
+- Choose a Jekyll theme to be applied on your resume.  
+
+Your \_config.yml file should look something like this:
+```yml
+theme: jekyll-theme-minimal
+title: "My Resume"
+```
 
 #### 3. Host documents on a Distributed Version Control System:
--  Distributed Version Control Systems can be used to host static websites.
+-  Distributed Version Control Systems can be a great source of hosting static websites or technical documentations.
+-  They allow users to work on their documentation offline
+-  Each update/commit applied to the documentation is stored in the history that alows the user to keep track of progress.
+-  They also allow different users to make changes on same documentation.
+>**Related Steps:**
+- Create an account on a distributed version control system. In this example we will use Github.
+- Create repository named username.github.io, where username is your username on GitHub.
+- Add index.md and \_config.yml to your new Github repository.
+- Create a Readme.md file to describe the content of your directory.
+- Wait a few minutes after the initial commit and then go to "https://username.github.io" in your browser.
 
+This is what your Github repository looks like once you add all the necessary files.
+![](https://github.com/Aman-1313/Aman-1313.github.io/blob/5bf3457acacc7378fa951fcff77d21cd978174d4/ezgif.com-gif-maker.gif)
+![](https://github.com/Aman-1313/Aman-1313.github.io/blob/79941696f019ffb8f0e757894071ebc5ee57e605/ezgif.com-video-to-gif.gif)
 ## More Resources
 https://www.markdownguide.org/getting-started   
 https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS  
