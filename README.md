@@ -1,4 +1,4 @@
-# HOST A RESUME ONLINE  
+# Host A Resume In Few Simple Steps   
 ## Purpose 
 Host a portfoilio or a resume online using lightweight markup language, static site generator and a distributed version control. The following instructions aim to provide simple yet practical steps to host and format a resume online.
 
@@ -7,6 +7,13 @@ Host a portfoilio or a resume online using lightweight markup language, static s
 - A Github account
 
 ## Instructions
+1. **Create your resume in a _lightweight markup language_**  
+    - Gather all the information necessary for your resume.
+    - Write your resume in Markdown file format.
+    - Choose a Markdown editor of your choice some example include [StackEdit](https://stackedit.io), [Atom](https://atom.io), [Dillinger](https://dillinger.io).
+  
+
+## Key Principles 
 Inspired by  _Andrew Etter’s_ Modern Technical Writing, here are some key principles and relative practical steps for hosting a great static website or a resume:
 #### 1. Use a lightweight markup language: 
 - Traditional languages used to write a website content like XML and HTML can be very time consuming and difficult to learn because of their specialized tags and sytax.
