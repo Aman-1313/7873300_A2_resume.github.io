@@ -7,10 +7,37 @@ Host a portfoilio or a resume online using lightweight markup language, static s
 - A Github account
 
 ## Instructions
-1. **Create your resume in a _lightweight markup language_**  
+Hosting a resume or a portfolio online can be very helpful to get a new job interview. The following instructions assume little or no technical knowledge for writing and hosting static websites. First we will create our resume using a lightweight markup language. Then we will format it using a static site generator. Subsequently we will explore how to host the resume using distributed version control systems.
+1. **Create your resume using _Markdown_**  
     - Gather all the information necessary for your resume.
-    - Write your resume in Markdown file format.
-    - Choose a Markdown editor of your choice some example include [StackEdit](https://stackedit.io), [Atom](https://atom.io), [Dillinger](https://dillinger.io).
+    - Choose a lightweight markup language editor of your choice, some example include [StackEdit](https://stackedit.io), [Atom](https://atom.io), [Dillinger](https://dillinger.io).
+    - Edit and preview your resume using the editor in Markdown format.
+    - Save your resume with a .md extension.
+2. **Create _Github_ directory to host your resume**
+    - Go to https://github.com in your web browser.
+    - Create a new Github account if you don't have one already.
+    - Create a new directory named username.github.io, where username is your username on GitHub.
+3. **Add necessary files to your Github directory**
+    - Add your resume Markdown file to the new directory.
+    - Rename your resume file to index.md.
+    - Create a new file named \_config.yml in your Github directory.
+    - Create a new Readme.md file in your Github directory.
+    - Describe the content of your directory in the Readme.md file.
+4. **Format your resume using _Jekyll_**
+    - Choose a theme for your resume from the list of [Jekyll themes](https://jekyllthemes.io/jekyll-documentation-themes).
+    - Add the chosen Jekyll theme in the \_config.yml in your Github directory.
+> Your \_config.yml file should look something like this:
+```yml
+theme: jekyll-theme-minimal
+title: "My Resume"
+```
+5. **View and finalize your Resume website**
+    - Check your resume website at https://username.github.io in your browser.
+    - Try new Jekyll themes to change the website format.  
+![](https://media.giphy.com/media/o4WcF5PHKKVcBZZwzE/giphy.gif).   
+
+By following the given instructions carefully you now have succesfully hosted your resume online at https://username.github.io.  
+
   
 
 ## Key Principles 
@@ -43,24 +70,15 @@ Markdown code
 Both of the code-blocks above provide the exact same result but Markdown is clearly more *Readable* and *Efficient* compared to HTML. This difference becomes even more evident when working on large projects.
 
 >**Related Steps:**
-- Choose a lightweight markup language. In this example we will use a _Markdown_ format to write our resume.
-- Choose a Markdown editor of your choice, some example include [StackEdit](https://stackedit.io), [Atom](https://atom.io), [Dillinger](https://dillinger.io).
-- Write your resume using the chosen Markdown editor.
-- Save your file named as index.md. 
+- Choose a lightweight markup language editor of your choice, some example include [StackEdit](https://stackedit.io), [Atom](https://atom.io), [Dillinger](https://dillinger.io).
+- Edit and preview your resume using the editor in Markdown format.
 
 #### 2. Format a document with a static site generator:
 - Static sites are a fast, simple, and secure source of creating technical documention. 
 - Using Lightweight Markup *Content* and a *Theme*(HTML, CSS) __static site generators__ can help add complex functionalities to our documentation website.
 >**Related Steps:**
-- Choose a static site generator of your choice. In this example we will use "Jekyll".
-- Create a file named \_config.yml.
-- Choose a Jekyll theme to be applied on your resume.  
-
-Your \_config.yml file should look something like this:
-```yml
-theme: jekyll-theme-minimal
-title: "My Resume"
-```
+  - Choose a theme for your resume from the list of [Jekyll themes](https://jekyllthemes.io/jekyll-documentation-themes).
+  - Add the chosen Jekyll theme in the \_config.yml in your Github directory.
 
 #### 3. Host documents on a Distributed Version Control System:
 -  Distributed Version Control Systems can be a great source of hosting static websites or technical documentations.
@@ -68,15 +86,10 @@ title: "My Resume"
 -  Each update/commit applied to the documentation is stored in the history that alows the user to keep track of progress.
 -  They also allow different users to make changes on same documentation.
 >**Related Steps:**
-- Create an account on a distributed version control system. In this example we will use Github.
-- Create repository named username.github.io, where username is your username on GitHub.
-- Add index.md and \_config.yml to your new Github repository.
-- Create a Readme.md file to describe the content of your directory.
-- Wait a few minutes after the initial commit and then go to "https://username.github.io" in your browser.
+ - Create a new Github account if you don't have one already.
+ - Create a new directory named username.github.io, where username is your username on GitHub.
+ - Check your resume website at  https://username.github.io in your browser.
 
-This is what your Github repository looks like once you add all the necessary files.
-![](https://github.com/Aman-1313/Aman-1313.github.io/blob/5bf3457acacc7378fa951fcff77d21cd978174d4/ezgif.com-gif-maker.gif)
-![](https://github.com/Aman-1313/Aman-1313.github.io/blob/79941696f019ffb8f0e757894071ebc5ee57e605/ezgif.com-video-to-gif.gif)
 ## More Resources
 https://www.markdownguide.org/getting-started   
 https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS  
