@@ -15,7 +15,7 @@ Hosting a resume or a portfolio online can be very helpful to get a new job inte
     - Save your resume with a .md extension.
 2. **Create _Github_ directory to host your resume**
     - Go to https://github.com in your web browser.
-    - Create a new Github account if you don't have one already.
+    - Create a new Github account.
     - Create a new directory named username.github.io, where username is your username on GitHub.
 3. **Add necessary files to your Github directory**
     - Add your resume Markdown file to the new directory.
