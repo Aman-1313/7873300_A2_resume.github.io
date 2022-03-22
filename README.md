@@ -98,7 +98,9 @@ https://docs.github.com/en/pages
 https://jekyllrb.com/docs/  
 
 ## Authors and Acknowledgements
-Johnson Makumator-Jones, Hong Gao, Adam Kroeker, Cain Stoeke
+Johnson Makumator-Jones, Hong Gao, Adam Kroeker, Cain Stoeke  
+Andrew Etter's Modern Technical Writing
+COMP 3040 Course Notes
 
 ## FAQs
 1. Why is Markdown better than a word processor?
