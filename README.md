@@ -99,7 +99,7 @@ https://jekyllrb.com/docs/
 
 ## Authors and Acknowledgements
 Johnson Makumator-Jones, Hong Gao, Adam Kroeker, Cain Stoeke  
-Andrew Etter's Modern Technical Writing
+Andrew Etter's Modern Technical Writing   
 COMP 3040 Course Notes
 
 ## FAQs
