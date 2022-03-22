@@ -33,6 +33,7 @@ title: "My Resume"
 ```
 5. **View and finalize your Resume website**
     - Check your resume website at https://username.github.io in your browser.
+    - Wait for a few minutes for the site to come online after initial commit and when you make any changes.
     - Try new Jekyll themes to change the website format.  
 ![](https://media.giphy.com/media/o4WcF5PHKKVcBZZwzE/giphy.gif).   
 
