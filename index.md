@@ -37,13 +37,44 @@ Relevant Coursework: Computational Theory, Operating Systems, Compilers, Intelli
 - Worked along a large team to keep track of the sales
 - Gathered delivery orders for customers
 
+**CREW MEMBER   
+  MCDONALD'S RESTAURANT**, Winnipeg, Canada    
+  
+- Worked in a fast paced environment 
+- Ensured proper hygiene while preparing food orders
+- Kept excellent customer service standards
+
 **HOTEL RECEPTIONIST   
   RED PALACE**, Chandigarh, India    
   
 - Tracked customer transactions 
 - Organized data entries in excel spreadsheets
 - Customized company memos and emails 
+
+####  VOLUNTEER WORK
+
+---
+**EVENT CREW   
+  OPEN HOUSE**, University of Manitoba, Winnipeg, Canada 
   
+- Helped organizing a campus tour for high school students 
+- Ensured safe transit of students to different events on campus 
+- Helped preparing the set up for various events on campus
+
+**CREW MEMBER   
+  NISHKAM SEWAK JATHA(NGO)**, Chandigarh, India
+  
+- Helped distributing food and daily essentials to the underprivileged 
+- Organized events on various locations across the city
+- Handled funds and donations from several donors
+
+**CAMPAIGN LEADER   
+  COLLEGE STUDENT FRONT**, SGGS College Sector-26 Chandigarh, India  
+  
+- Managed election campaign for a new student association
+- Organized various succesful events 
+- Helped choose candidates for different roles in the campaign
+ 
 
 ####  PROJECTS
 
