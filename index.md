@@ -82,20 +82,20 @@ Relevant Coursework: Computational Theory, Operating Systems, Compilers, Intelli
 
 ---
 
-**DEFORESTATION PROJECT  
-UNIVERSITY OF MANITOBA, DATA SCIENCE COURSE**   
-Final project(Cause of Deforestation), <https://github.com/Aman-1313/Deforestation-Project.git>
+**FITNESS TRAINER    
+UNIVERSITY OF MANITOBA**   
+Final project: <https://github.com/Aman-1313/Fitness-Trainer>
 
-- Structured and formatted Big-Data into usable databases   
-- Used R and Python libraries to perform visualizations  
-- Used statistical models like Linear Regression, Random-Forests and Nearest Neighbors 
+- Developed a simple Android application for users to learn and record their physical exercises.  
+- Java and  Hyper SQL Database   
+- Utilized OOP basics, and Agile methodology. 
 
-**CRYPTO PRICE CHECKER**  
-Final Project(Crypto Data), <https://github.com/Aman-1313/cryptoData.git>   
+**Activity scheduler   
+UNIVERSITY OF MANITOBA**  
+Final Project: <https://github.com/Aman-1313/Activity-Scheduler>   
 
-- Designed Android and IOS application  
-- Integrated API from an online source   
-- Delivered highly accurate Crypto-Currencies price updates 
+- Designed a Web Application using Javascript, SQL, HTML, CSS, Bootstrap.  
+- Worked in a Team of 4 and utilized Agile methodology.
 
 ####  INTERESTS
 
