@@ -29,20 +29,22 @@ Relevant Coursework: Computational Theory, Operating Systems, Compilers, Intelli
 ####  EXPERIENCE
 
 ---
-
-**FREIGHT TEAM LEAD   
-  HOME DEPOT**, Winnipeg, Canada    
+**DATA ANALYST INTERN  
+  DATA GLACIER**, Winnipeg(Remote), Canada    
   
-- Obtained lisence to operate a forklift 
-- Worked along a large team to keep track of the sales
-- Gathered delivery orders for customers
+- Utilized Regression analysis, SQL, Python, Statistics for 
+  curating Data analysis reports 
 
-**CREW MEMBER   
-  MCDONALD'S RESTAURANT**, Winnipeg, Canada    
+**FULL-STACK DEVELOPER   
+  BEAT EMPIRE STUDIOS**, Winnipeg(Remote), Canada    
   
-- Worked in a fast paced environment 
-- Ensured proper hygiene while preparing food orders
-- Kept excellent customer service standards
+- Created a responsive company website using Javascript frameworks
+
+**CONTENT WRITER   
+  BEAT EMPIRE STUDIOS**, Winnipeg(Remote), Canada    
+  
+- Responsible for Technical Writing and Content Promotion 
+- Analyzed Youtube Algorithms and suitable Hashtags 
 
 **HOTEL RECEPTIONIST   
   RED PALACE**, Chandigarh, India    
