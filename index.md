@@ -63,19 +63,15 @@ Relevant Coursework: Computational Theory, Operating Systems, Compilers, Intelli
 - Ensured safe transit of students to different events on campus 
 - Helped preparing the set up for various events on campus
 
-**CREW MEMBER   
-  NISHKAM SEWAK JATHA(NGO)**, Chandigarh, India
-  
-- Helped distributing food and daily essentials to the underprivileged 
-- Organized events on various locations across the city
-- Handled funds and donations from several donors
+**Tutor**, University of Manitoba, Winnipeg, Canada   
 
-**CAMPAIGN LEADER   
-  COLLEGE STUDENT FRONT**, SGGS College Sector-26 Chandigarh, India  
-  
-- Managed election campaign for a new student association
-- Organized various succesful events 
-- Helped choose candidates for different roles in the campaign
+- Helped junior students with the entry level Java and Python programming courses.
+
+**Data management**, Canadian Cancer Society, Canada
+
+- Updated Excel spreadsheets as per the new company standards
+- Updated the new spreadsheets on Salesforce platform for data insights.
+- Updated the spreadsheets data on Company's cloud database.
  
 
 ####  PROJECTS
