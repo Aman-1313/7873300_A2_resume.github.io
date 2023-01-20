@@ -35,11 +35,6 @@ Relevant Coursework: Computational Theory, Operating Systems, Compilers, Intelli
 - Utilized Regression analysis, SQL, Python, Statistics for 
   curating Data analysis reports 
 
-**FULL-STACK DEVELOPER   
-  BEAT EMPIRE STUDIOS**, Winnipeg(Remote), Canada    
-  
-- Created a responsive company website using Javascript frameworks
-
 **CONTENT WRITER   
   BEAT EMPIRE STUDIOS**, Winnipeg(Remote), Canada    
   
